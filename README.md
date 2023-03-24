@@ -1,17 +1,9 @@
-# flutter_application_1
+The android quiz applications test your knowledge and understanding in different areas. After each
+quiz, the user will see the final score and you have the ability to go through the quiz result analysis
+to see questions that you fail and the correct answers.I have used "Flutter" framework to design this application.<img width="1440" alt="Screenshot 2023-03-25 at 12 12 32 AM" src="https://user-images.githubusercontent.com/99784752/227613858-755509cd-46c8-4a41-9226-503498cf7d28.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 12 15 14 AM" src="https://user-images.githubusercontent.com/99784752/227613912-eb61b7a8-e1e3-4e02-8556-80cff8ba7e7a.png">
 
-A new Flutter project.
+<img width="1440" alt="Screenshot 2023-03-25 at 12 15 29 AM" src="https://user-images.githubusercontent.com/99784752/227613923-fa930c5b-4ee8-45b1-8622-f015c64a6246.png">
 
-## Getting Started
+@AscentAcademy
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AscentAcademy_Quiz_App
